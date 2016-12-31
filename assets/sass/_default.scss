@@ -1,0 +1,52 @@
+
+/*****************************
+* VARIÁVEIS
+******************************/
+$main_color:  #A99269 !default;
+$dark_gray:   #676767 !default;
+
+
+/*****************************
+* FONTES
+******************************/
+
+
+
+/*****************************
+* GERAL LAIVEPLATE
+******************************/
+
+.text-principal {
+	color: $main_color;
+} 
+
+body {
+    font-family: Effra, Raleway, Calibri, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: $dark_gray;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.border-radius {
+
+}
+
+.social a {
+	margin: 5px;
+}
+
+[class^="icons-"] {
+	width: 32px;
+	height: 32px;
+	display: inline-block;
+
+}
+
+@media (max-width: 991px) {
+	
+}
+	
